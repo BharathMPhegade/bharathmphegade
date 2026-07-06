@@ -43,7 +43,7 @@ building modern software that solves real-world problems.
 
 </td>
 
-<td width="45%" align="center">
+<td width="55%" align="center">
 
 <img src="Assets/Gif/gif.gif" width="320">
 
