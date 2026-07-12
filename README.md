@@ -17,7 +17,7 @@
 <h2>👨‍💻 About Me</h2>
 
 <p>
-I'm <b>Bharath M P Hegade</b>, an MCA student at
+I'm <b>Bharath M P Hegde</b>, an MCA student at
 <b>Amrita Vishwa Vidyapeetham</b> with a passion for
 building modern software that solves real-world problems.
 </p>
